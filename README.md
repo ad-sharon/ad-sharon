@@ -16,8 +16,8 @@
 - Currently building ...
 - Currently learning **System Design**
 - Ask me about **Frontend engineering**
----
 
+---
 
 ## Tech Stack
 
@@ -59,7 +59,6 @@
 </div>
 
 ---
-
 
 ## GitHub Stats
 
