@@ -3,6 +3,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,50:A855F7,100:FF6B6B&height=100&section=footer"/>
 
 <h1>Sharon Adigwe</h1>
+    
+<h4>
+<img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=I help companies go from design to deployment" alt="Typing SVG"/>
+</h4>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sharon-adigwe/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23FF6B6B.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://sharon-adigwe-portfolio.vercel.app/)
@@ -65,10 +69,10 @@
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ad-sharon&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=FF6B6B&currStreakLabel=3B82F6" width="60%" />
+  <img src="https://streak-stats.demolab.com?user=ad-sharon&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=FF6B6B&currStreakLabel=3B82F6" width="60%" />  
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ad-sharon&theme=default" width="60%" />      
+  <img src="https://raw.githubusercontent.com/[YourGitHub]/[YourGitHub]/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
 </div>
-
----
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,50:A855F7,100:FF6B6B&height=120&section=footer"/>
