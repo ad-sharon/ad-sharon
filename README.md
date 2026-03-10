@@ -12,12 +12,13 @@
 
 </div>
 
+&nbsp; 
 
 ## About Me
 
 🔹 Currently building **Choppr** <--> Currently learning **System Design**;
 
-
+&nbsp; 
     
 ## Tech Stack
 
@@ -58,8 +59,7 @@
 
 </div>
 
-
-
+&nbsp; 
     
 ## GitHub Stats
 
