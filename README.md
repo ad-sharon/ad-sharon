@@ -16,7 +16,7 @@
 
 ## About Me
 
-🔹 Currently building **Choppr** <--> Currently learning **System Design**;
+🔹 Currently building **Choppr** <--> Currently learning **System Design** <--> Looking to collaborate on **frontend or devops** projects
 
 &nbsp; 
     
