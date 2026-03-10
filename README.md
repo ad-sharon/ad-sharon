@@ -40,6 +40,7 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%237952B3.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Chakra UI](https://img.shields.io/badge/Chakra%20UI-319795?style=for-the-badge&logo=chakraui&logoColor=white)
 ![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white)
 
@@ -55,7 +56,6 @@
 **Tools**
 
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-FF6B6B?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -70,7 +70,12 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=ad-sharon&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=FF6B6B&currStreakLabel=3B82F6" width="60%" />  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ad-sharon&theme=default" width="60%" />
+
+<img src="/profile-summary-card-output/default/0-profile-details.svg" />
+<img src="/profile-summary-card-output/default/1-repos-per-language.svg" />
+<img src="/profile-summary-card-output/default/2-most-commit-language.svg" />
+<img src="/profile-summary-card-output/default/3-stats.svg" />
+<img src="/profile-summary-card-output/default/4-productive-time.svg" />
 </div>
 
 <div align="center">
