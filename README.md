@@ -71,7 +71,7 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=ad-sharon&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=FF6B6B&currStreakLabel=3B82F6" width="60%" />  
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ad-sharon&theme=default" width="60%" />      
-  <img src="https://raw.githubusercontent.com/[YourGitHub]/[YourGitHub]/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
+  <img src="https://raw.githubusercontent.com/ad-sharon/ad-sharon/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
 </div>
 
 <div align="center">
