@@ -5,7 +5,7 @@
 <h1>Sharon Adigwe</h1>
     
 <h4>
-<img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=16&duration=3000&color=33FF33&center=true&vCenter=true&width=800&lines=I+help+companies+go+from+design+to+deployment" alt="I help companies go from design to deployment"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=16&duration=3000&color=006400&center=true&vCenter=true&width=800&lines=I+help+companies+go+from+design+to+deployment" alt="I help companies go from design to deployment"/>
 </h4>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sharon-adigwe/)
