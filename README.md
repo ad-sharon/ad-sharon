@@ -5,7 +5,7 @@
 <h1>Sharon Adigwe</h1>
     
 <h4>
-<img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=16&duration=3000&color=dc0073&center=true&vCenter=true&width=800&lines=I+help+companies+go+from+design+to+deployment" alt="I help companies go from design to deployment"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=16&duration=3000&color=dc0073&center=true&vCenter=true&width=800&lines=I+help+companies+go+from+design+to+deployment!" alt="I help companies go from design to deployment"/>
 </h4>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sharon-adigwe/)
@@ -72,10 +72,8 @@
   <img src="https://streak-stats.demolab.com?user=ad-sharon&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=FF6B6B&currStreakLabel=3B82F6" width="60%" />  
 
 <img src="/profile-summary-card-output/default/0-profile-details.svg" />
-<img src="/profile-summary-card-output/default/1-repos-per-language.svg" />
 <img src="/profile-summary-card-output/default/2-most-commit-language.svg" />
 <img src="/profile-summary-card-output/default/3-stats.svg" />
-<img src="/profile-summary-card-output/default/4-productive-time.svg" />
 </div>
 
 <div align="center">
