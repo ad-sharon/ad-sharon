@@ -19,7 +19,7 @@
 
 ---
 
-
+  
 ## Tech Stack
 
 <div align="left">
@@ -61,7 +61,7 @@
 
 ---
 
-
+  
 ## GitHub Stats
 
 <div align="center">
