@@ -1,76 +1,81 @@
-# Sharon Adigwe
+<div align="center">
 
-> [I help companies go from design to deployment]
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:A855F7,100:3B82F6&height=200&section=header&text=Sharon Adigwe&fontSize=50&fontColor=fff&fontAlignY=38&desc=Welcome%20to%20my%20corner!%20&descAlignY=58&descSize=18" />
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sharon-adigwe/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF6B6B.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://sharon-adigwe-portfolio.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharonadigwe194@gmail.com)
 
-- 🔭 Currently working on **[Choppr]**
-- 🌱 Currently learning **[System Design]**
-- 💬 Ask me about **[--]**
-- ⚡ Fun fact: [--]
-
----
-
-## 🛠️ Tech Stack
-
-**Languages**  
-![Language1](https://img.shields.io/badge/-Language1-05122A?style=flat&logo=language1) 
-![Language2](https://img.shields.io/badge/-Language2-05122A?style=flat&logo=language2)
-
-**Frameworks & Libraries**  
-![Framework1](https://img.shields.io/badge/-Framework1-05122A?style=flat&logo=framework1)
-![Framework2](https://img.shields.io/badge/-Framework2-05122A?style=flat&logo=framework2)
-
-**Tools & Platforms**  
-![Tool1](https://img.shields.io/badge/-Tool1-05122A?style=flat&logo=tool1)
-![Tool2](https://img.shields.io/badge/-Tool2-05122A?style=flat&logo=tool2)
+</div>
 
 ---
 
-## 🚀 Featured Projects
+<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-### 🔹 [Project Name 1](https://github.com/yourusername/project1)
-> [One sentence description — what it does and why it matters]
+## 🧑‍💻 About Me
 
-- **Tech:** [e.g. React, Node.js, PostgreSQL]
-- **Highlights:** [Key feature or achievement — e.g. "Reduced load time by 40%"]
-- 🔗 [Live Demo](https://yourproject.com) &nbsp;|&nbsp; [Repo](https://github.com/yourusername/project1)
+- Currently building **--**
+- Currently learning **System Design**
+- Ask me about **Frontend engineering**
 
----
-
-### 🔹 [Project Name 2](https://github.com/yourusername/project2)
-> [One sentence description]
-
-- **Tech:** [Stack]
-- **Highlights:** [Key feature or achievement]
-- 🔗 [Live Demo](https://yourproject.com) &nbsp;|&nbsp; [Repo](https://github.com/yourusername/project2)
+<br clear="right"/>
 
 ---
 
-### 🔹 [Project Name 3](https://github.com/yourusername/project3)
-> [One sentence description]
+## Tech Stack
 
-- **Tech:** [Stack]
-- **Highlights:** [Key feature or achievement]
-- 🔗 [Repo](https://github.com/yourusername/project3)
+<div align="center">
+
+**Languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Chakra UI](https://img.shields.io/badge/Chakra%20UI-319795?style=for-the-badge&logo=chakraui&logoColor=white)
+![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white)
+
+**DevOps & Cloud Engineering**
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+**🧰 Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-FF6B6B?style=for-the-badge&logo=fastapi&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ad-sharon&layout=compact&theme=dark&hide_border=true" width="48%" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ad-sharon&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=FF6B6B&text_color=ffffff" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ad-sharon&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=ffffff" width="45%" />
+</div>
 
----
-
-## Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourhandle)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your@email.com)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ad-sharonE&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=FF6B6B&currStreakLabel=3B82F6" width="60%" />
+</div>
 
 ---
 
-<p align="center"><i>"--"</i></p>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,50:A855F7,100:FF6B6B&height=120&section=footer"/>
+</div>
