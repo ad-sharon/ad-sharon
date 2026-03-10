@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:A855F7,100:3B82F6&height=200&section=header&text=Sharon Adigwe&fontSize=50&fontColor=fff&fontAlignY=38&desc=Welcome%20to%20my%20corner!%20&descAlignY=58&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,50:A855F7,100:FF6B6B&height=120&section=footer"/>
+
+<h2>Sharon Adigwe</h2>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sharon-adigwe/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23FF6B6B.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://sharon-adigwe-portfolio.vercel.app/)
