@@ -10,17 +10,14 @@
 
 </div>
 
----
 
 ## About Me
 
 - Currently building ...
 - Currently learning **System Design**
 - Ask me about **Frontend engineering**
-
-<br clear="right"/>
-
 ---
+
 
 ## Tech Stack
 
@@ -63,9 +60,10 @@
 
 ---
 
+
 ## GitHub Stats
 
-iv align="center">
+<div align="center">
   <img src="https://github-readme-stats-git-master-gruvbox-themes.vercel.app/api?username=ad-sharon&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=FF6B6B&text_color=ffffff" width="48%" />
   <img src="https://github-readme-stats-git-master-gruvbox-themes.vercel.app/api/top-langs/?username=ad-sharon&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=ffffff" width="45%" />
 </div>
