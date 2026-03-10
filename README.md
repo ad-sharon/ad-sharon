@@ -19,6 +19,7 @@
 
 ---
 
+
 ## Tech Stack
 
 <div align="left">
@@ -60,12 +61,8 @@
 
 ---
 
-## GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats-git-master-gruvbox-themes.vercel.app/api?username=ad-sharon&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=FF6B6B&text_color=ffffff" width="48%" />
-  <img src="https://github-readme-stats-git-master-gruvbox-themes.vercel.app/api/top-langs/?username=ad-sharon&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=ffffff" width="45%" />
-</div>
+## GitHub Stats
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=ad-sharon&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=FF6B6B&currStreakLabel=3B82F6" width="60%" />
