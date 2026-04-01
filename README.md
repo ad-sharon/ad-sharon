@@ -7,7 +7,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=16&duration=3000&color=dc0073&center=true&vCenter=true&width=800&lines=I+help+companies+go+from+design+to+deployment!" alt="I help companies go from design to deployment"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sharon-adigwe/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF6B6B.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://sharon-adigwe-portfolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF6B6B.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://sharon-adigwe.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharonadigwe194@gmail.com)
 
 </div>
